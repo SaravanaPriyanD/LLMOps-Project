@@ -3,9 +3,11 @@ import json
 import base64
 import os
 
+# provide me one 4k HD image of a person who is swimming in the river
+# provide me one 4k hd image of person who is standing over the mount everest peak.
 prompt="""
 
-provide me one 4k hd image of person who is standing over the mount everest peak.
+provide me one 4k HD image of a person who is swimming in the river
 
 """
 
